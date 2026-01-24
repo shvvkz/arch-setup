@@ -48,11 +48,13 @@ python-pip
 python-requests
 reflector
 rofi
+rsync
 rust-analyzer
 rustup
 slurp
 sof-firmware
 starship
+stow
 swappy
 swaybg
 swww
