@@ -16,6 +16,7 @@ git
 grim
 grub
 gst-plugin-pipewire
+gtk4
 gvfs
 hyprland
 keepassxc
