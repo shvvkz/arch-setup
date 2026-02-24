@@ -17,6 +17,7 @@ grim
 grub
 gst-plugin-pipewire
 gtk4
+gtk4-layer-shell
 gvfs
 hyprland
 keepassxc
